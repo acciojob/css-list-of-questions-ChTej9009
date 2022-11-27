@@ -1,5 +1,14 @@
 
 /* Your CSS Code here. */
+
+    blockquote {
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 40px;
+        margin-right: 40px;
+      }
+
 .questions{
     background-color: #f8fffe; height: 50px; margin-top: 20px; padding: 15px; max-width: 600px; border-left: 8px solid green;
 }
